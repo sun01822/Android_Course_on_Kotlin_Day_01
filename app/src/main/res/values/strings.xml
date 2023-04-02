@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text on Tap</string>
+    <string name="text1">I love Rajshahi</string>
+    <string name="button">Change</string>
+</resources>
